@@ -24,15 +24,20 @@ A Machine Learning project that predicts whether a student will be placed based 
 data/
 model/
 notebooks/
-app.py
 train_model.py
 placement_prepared.csv
 requirements.txt
+README.md
 
 ## How to Run
 
+Install dependencies:
+
 pip install -r requirements.txt
 
+Run the training script:
+
+python train_model.py
 python train_model.py
 
 python app.py
