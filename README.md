@@ -1,9 +1,11 @@
 # Student Placement Prediction Model
 
 ## Overview
+
 A Machine Learning project that predicts whether a student will be placed based on academic performance and educational background.
 
 ## Features
+
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Visualization
@@ -12,6 +14,7 @@ A Machine Learning project that predicts whether a student will be placed based 
 - Placement Prediction
 
 ## Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -31,13 +34,6 @@ README.md
 
 ## How to Run
 
-Install dependencies:
-
 pip install -r requirements.txt
 
-Run the training script:
-
 python train_model.py
-python train_model.py
-
-python app.py
